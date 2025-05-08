@@ -7,12 +7,12 @@ Features a unibody layout and support for MX-switches via hotswap sockets.
 
 ## Shopping list
 
-| Part  | Quantity |
-| ------------- | ------------- |
-| Pro Micro Controller  | 1  |
-| SOD-123 SMD or 1N4148 THT diodes  | 34  |
-| MX-sockets  | 34  |
-| MX-switches  | 34  |
-| Keycaps  | 34  |
+| Part                             | Quantity |
+| -------------------------------- | -------- |
+| Pro Micro Controller             | 1        |
+| SOD-123 SMD or 1N4148 THT diodes | 34       |
+| Kailh Hotswap MX-sockets         | 34       |
+| MX-switches                      | 34       |
+| Keycaps                          | 34       |
 
-I suggest making the controller hotswappable aswell.
+I suggest making the controller hotswappable as well.
